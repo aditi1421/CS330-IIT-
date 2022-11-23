@@ -9,6 +9,7 @@ In the second part, randomgen.py tests how easy or difficult it is for an intrud
 The program discards any other inputs whether it be alphabet characters or special characters.
 
 # Pre Requisites: 
+### The instructions below are for a Linux environment (Ubuntu 22.04).
 1. Python
 2. Git
 
