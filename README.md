@@ -4,7 +4,9 @@
 
   File cs330.py is the code for the first part. Access code is "22087". Unlock code is '220871' while the lock code is '220874'. Characters from 0-9 are accepted.As soon as the last digit of the access code is entered, the program will signal the action taken (lock or unlock).
 
-In the second part, randomgen.py tests how easy or difficult it is for an intruder to unlock the lock without actually knowing the code.
+In the second part, randomgen.py tests how easy or difficult it is for an intruder to unlock the lock without actually knowing the code.This one takes a longer time since the intruder does not know the length of the string.
+
+The program discards any other inputs whether it be alphabet characters or special characters.
 
 # Pre Requisites: 
 1. Python
