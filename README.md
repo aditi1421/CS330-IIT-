@@ -1,23 +1,32 @@
-# CS330-IIT-
-Security Device Engine 
-
 # Project Description :
 
-The purpose of this assignment is to get you to use Finite Automata concepts in solving real-life problems.
+## The purpose of this assignment is to get you to use Finite Automata concepts in solving real-life problems.
 
 File cs330.py is the code for the first part. Access code is "22087". 
 Unlock code is '220871' while the lock code is '220874'. Characters from 0-9 are accepted.
 As soon as the last digit of the access code is entered, the program will signal the action taken (lock or unlock).
 
-In the second part, randomgen.py randomly guesses the unlock code of the Security Device 20 times, and prints a 3-tuple (min, max, average) describing the minumum and maximum number of digits randomly generated until the passcode was guessed, and the average within all 20 times.
+In the second part, randomgen.py tests how easy or difficult it is for an intruder to unlock the lock without actually knowing the code.
 
-# Requirements: 
+# Pre Requisites: 
 1. Python
 2. Git
+
 # Installation :
-$ sudo apt update
-$ sudo apt install python3
+1. To install python in your system: 
+  $ sudo apt update
+  $ sudo apt install python3
 
+2. Install git 
+  $ sudo apt-get update
+  $ sudo apt-get install git-all
 
-1. Install Python
+# Configuration: 
+1. Clone the repository
+  git clone https://github.com/aditi1421/CS330-IIT-
+  
+2. Run unit tests
+
+# How to Use the Project: 
+
 
