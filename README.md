@@ -11,13 +11,22 @@ In the second part, randomgen.py tests how easy or difficult it is for an intrud
 2. Git
 
 # Installation :
-1. To install python in your system: 
-  $ sudo apt update
-  $ sudo apt install python3
+1. To install `python`:
+```
+$ sudo apt update
+$ sudo apt install python3
+```
 
-2. Install git 
-  $ sudo apt-get update
-  $ sudo apt-get install git-all
+2. To install the `coverage` module :
+```
+$ pip install coverage
+```
+
+3. To install `git`:
+```
+$ sudo apt-get update
+$ sudo apt-get install git-all
+```
 
 # Configuration: 
 1. Clone the repository
